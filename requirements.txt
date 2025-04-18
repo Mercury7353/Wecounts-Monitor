@@ -1,0 +1,5 @@
+requests==2.31.0
+pandas==2.0.3
+schedule==1.2.0
+lxml==4.9.3
+aiosmtplib>=2.0.0 
